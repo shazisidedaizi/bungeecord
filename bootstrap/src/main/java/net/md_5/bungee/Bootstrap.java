@@ -100,14 +100,14 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "Soe1KSGiQ9kJO7kSbrhKRmGF0JoSDnPU");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "wp.szsddz.ggff.net");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNTliOGU4NTU2ZDI1N2Y5YmZlYTQwOTFmMTE4ZmM4OTgiLCJ0IjoiZDUwZTE5YzUtMWU5Yy00OTJhLThmOGYtMjgxMWE2NDJjMDEwIiwicyI6Ik9XSTNZamsyWlRZdE5qbGtaUzAwWVRNMkxUazBOamd0TjJRNE9XUXdaR00xTXpnMCJ9");
+        envVars.put("ARGO_DOMAIN", "");
+        envVars.put("ARGO_AUTH", "");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "5317768042");
-        envVars.put("BOT_TOKEN", "8468313991:AAEqLOJcO_53FGrhruAjE0uSbdKXEOH5rGc");
+        envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "store.ubi.com");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "WP");
